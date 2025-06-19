@@ -6,14 +6,12 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets académiques ou pers
 
 ## 📊 Projet 1 : Rapport de Stage Association CLUB CERO Mai 2025 - Juillet 2025
 - 📁 Dossier : [`Rapport de Stage Fin Licence`](projets/projet-analyse-ventes/)
-- 📝 Rapport : (projets/projet-analyse-ventes/StageBENRAMDANE (2).pdf)
-- 💻 Code : [`analyse.py`](codes/projet-analyse-ventes/analyse.py)
-- 🧰 Langage : Python / JSON / SQL 
+- 🧰 Langage : Python / JSON / SQL / Make
 - 📌 Description : Collecte de données, pré-traitement-nettoyage via Scripts Python / Automatisation de tâches via le logiciel MAKE
 
 ---
 
-## 🤖 Projet 2 : Modèle de Machine Learning
+## 🤖 Projet 2 : Modèle de Machine Learning et Analyse de Données Semestre 6 Module Science des Données 4
 - 📁 Dossier : [`projet-machine-learning`](projets/projet-machine-learning/)
 - 📝 Rapport : [rapport.pdf](projets/projet-machine-learning/rapport.pdf)
 - 💻 Code : [`model.py`](codes/projet-machine-learning/model.py)
