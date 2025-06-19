@@ -5,7 +5,7 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets académiques ou pers
 ---
 
 ## 📊 Projet 1 : Rapport de Stage Association CLUB CERO Mai 2025 - Juillet 2025
-- 📁 Dossier : [`projet-analyse-ventes`](projets/projet-analyse-ventes/)
+- 📁 Dossier : [`Rapport de Stage Fin Licence`](projets/projet-analyse-ventes/)
 - 📝 Rapport : (projets/projet-analyse-ventes/StageBENRAMDANE (2).pdf)
 - 💻 Code : [`analyse.py`](codes/projet-analyse-ventes/analyse.py)
 - 🧰 Langage : Python / JSON / SQL 
