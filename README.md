@@ -12,8 +12,8 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets académiques ou pers
 ---
 
 ## 🤖 Projet 2 : Modèle de Machine Learning et Analyse de Données Semestre 6 Module Science des Données 4
-- 📁 Dossier : [`projet-machine-learning`](projets/projet-science-desdonnees-semestre-6/)
-- 📝 Rapport : [rapport.pdf](projets/projet-machine-learning/rapport.pdf)
+- 📁 Dossier : [`Projet Science des Données 4 Semestre 6`](projets/projet-science-desdonnees-semestre-6/)
+- 📝 Rapport : [rapport.pdf](projets/projet-science-desdonnees-semestre-6/Soutenance-Stage-(3).pdf)
 - 🧰 Langages et Outils utilisés : Python/ Power BI / Excel / SQL
 - 📌 Description : Etude des liens entre l'environnement social et les maladies en France Métropolitaine + Prédiction et Classification de Maladies les plus fréquentes par département
 
