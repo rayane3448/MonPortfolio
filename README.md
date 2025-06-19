@@ -6,17 +6,16 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets académiques ou pers
 
 ## 📊 Projet 1 : Rapport de Stage Association CLUB CERO Mai 2025 - Juillet 2025
 - 📁 Dossier : [`Rapport de Stage Fin Licence`](projets/projet-analyse-ventes/)
-- 🧰 Langage : Python / JSON / SQL / Make
+- 🧰 Langages : Python / JSON / SQL / Make
 - 📌 Description : Collecte de données, pré-traitement-nettoyage via Scripts Python / Automatisation de tâches via le logiciel MAKE
 
 ---
 
 ## 🤖 Projet 2 : Modèle de Machine Learning et Analyse de Données Semestre 6 Module Science des Données 4
-- 📁 Dossier : [`projet-machine-learning`](projets/projet-machine-learning/)
+- 📁 Dossier : [`projet-machine-learning`](projets/projet-science-desdonnees-semestre-6/)
 - 📝 Rapport : [rapport.pdf](projets/projet-machine-learning/rapport.pdf)
-- 💻 Code : [`model.py`](codes/projet-machine-learning/model.py)
-- 🧰 Langage : Python  
-- 📌 Description : Classification d’images avec un modèle SVM sur le dataset CIFAR-10.
+- 🧰 Langages et Outils utilisés : Python/ Power BI / Excel / SQL
+- 📌 Description : Etude des liens entre l'environnement social et les maladies en France Métropolitaine + Prédiction et Classification de Maladies les plus fréquentes par département
 
 ---
 
