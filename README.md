@@ -17,9 +17,9 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets académiques ou pers
 - 📌 Description : Etude des liens entre l'environnement social et les maladies en France Métropolitaine + Prédiction et Classification de Maladies les plus fréquentes par département
 
 ## 🤖 Projet 3 : Modèle de Machine Learning et Analyse de Données Semestre 5 Licence 3 Module Science des Données 3
-- 📁 Dossier : [`Projet Science des Données 4 Semestre 6`](projetsdd3semestre5)
+- 📁 Dossier : [`Projet Science des Données 3 Semestre 5`](projetsdd3semestre5)
 - 🧰 Langages et Outils utilisés : Python/ Excel / R
-- 📌 Description : Impact des facteurs sociaux climatiques sur les catastrophes naturelles au cours des 20 dernières années
+- 📌 Description : Impact des paramètres agissants dans le réchauffant climatique sur les catastrophes naturelles au cours des dernières années
 
 ## 🤖 Projet 4 : Modèle de Machine Learning et Analyse de Données Semestre 4 Licence 2 Module Science des Données 2
 - 📁 Dossier : [`Projet Science des Données 2 Semestre 4`](ProjetSDD2Semestre4)
