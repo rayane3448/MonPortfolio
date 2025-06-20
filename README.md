@@ -1,7 +1,6 @@
 # 🗂️ Mon Portfolio de Projets
 
-Bienvenue sur mon portfolio. Vous trouverez ici mes projets académiques ou personnels, avec leur **rapport PDF** et **code source** associé.
-
+Bienvenue sur mon portfolio. Vous trouverez ici mes projets réalisés tout au long de ma licence MIASHS, avec leur **rapport PDF** associés
 ---
 
 ## 📊 Projet 1 : Rapport de Stage Association CLUB CERO Mai 2025 - Juillet 2025
