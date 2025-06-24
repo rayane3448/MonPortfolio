@@ -4,7 +4,7 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets réalisés tout au l
 ---
 
 ## 📊 Projet 1 : Rapport de Stage Association CLUB CERO Mai 2025 - Juillet 2025
-- 📁 Dossier : [`Rapport de Stage Fin Licence`](projets/projet-analyse-ventes/)
+- 📁 Dossier : [`Rapport de Stage Fin Licence`](https://github.com/rayane3448/MonPortfolio/blob/b5d2c32da5ede08723bf438c641c738f0aa992cf/StageBENRAMDANE%20(2).pdf)
 - 🧰 Langages : Python / JSON / SQL / Make
 - 📌 Description : Collecte de données, pré-traitement-nettoyage via Scripts Python / Automatisation de tâches via le logiciel MAKE
 
